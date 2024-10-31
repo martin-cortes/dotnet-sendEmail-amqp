@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup Label="SDK Versions">
+        <NetCoreTargetVersion>net8.0</NetCoreTargetVersion>        
+        <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
+    </PropertyGroup>
+</Project>
